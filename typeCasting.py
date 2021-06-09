@@ -1,9 +1,7 @@
-# string,list,boolean,dictionary,tuple,set and this is normal text. 
+
 age = input("What is your age?")
 data_type = type(age)
 print(data_type)
-# by default all inputs are going to be a string
-# but in my case i saw integer need to work out later
 age = int(age)
 data_type = type(age)
 print(data_type)

@@ -1,9 +1,4 @@
-# random
-# while
-# input
-# print formatting
-# comparison operators
-# break and continue
+
 import random
 while True:
     my_answer = input("Choose: rock, paper or scissors:")

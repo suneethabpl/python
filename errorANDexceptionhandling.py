@@ -1,5 +1,4 @@
-#how to handle errors
-# try:write a program inside of this try
+
 try:    
     sum=10+"20"
 except:
@@ -8,8 +7,6 @@ finally:
     sum=10+20
     print(sum)
 
-# excpet:execute a program inside of this except. chance of getting error.
-# finally:got error but dont stop move further
 
 try:
     file=open("newfile",'r')
@@ -62,5 +59,5 @@ else:
 finally:
     file=open("newfile","w")
 
-#How many except statements can a try-except block have?more than zero. There has to be at least one except statement.
+
 

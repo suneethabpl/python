@@ -1,127 +1,127 @@
-# can_code = True
-# if can_code == True:
-#     print("u can code!")
-# else:
-#     print("u dont know how to code yet")
+can_code = True
+if can_code == True:
+    print("u can code!")
+else:
+    print("u dont know how to code yet")
 
-# teacher = "Kalob Taulien"
-# if teacher.lower() == "kalob taulien":
-#     print("Show the teacher poratl")
-# else:
-#     print("You are a student. Welcome to Python 101")
-
-
-
-# name = input("what is your name?")
-# if name == "Bob":
-#  print("Welcome Bob!")
-#  bring_food = "Pizza"
-
-# else:
-#  print("you're not bob get out a here")     
-#  bring_food = "Salmon" 
-
-# print(f"you're eating {bring_food}")
-#elseif in javascript and elif is in python.
+teacher = "Kalob Taulien"
+if teacher.lower() == "kalob taulien":
+    print("Show the teacher poratl")
+else:
+    print("You are a student. Welcome to Python 101")
 
 
 
+name = input("what is your name?")
+if name == "Bob":
+ print("Welcome Bob!")
+ bring_food = "Pizza"
 
-# name = input("what is your name?")
-# if name == "Bob":
-#  print("Welcome Bob!")
-#  bring_food = "Pizza"
-# elif name == "kalob":
-#     print("Welcome to ur teacher portal")
-#     bring_food = "Tacos"
-# else:
-#  print("you're not bob get out a here")     
-#  bring_food = "Salmon" 
+else:
+ print("you're not bob get out a here")     
+ bring_food = "Salmon" 
 
-# print(f"you're eating {bring_food}")
+print(f"you're eating {bring_food}")
 
 
 
-# name = input("what is your name?")
-# if name == "Bob":
-#  print("Welcome Bob!")
-#  bring_food = "Pizza"
-# elif name == "kalob":
-#     print("Welcome to ur teacher portal")
-#     bring_food = "Tacos"
-# elif name == "Nathan":
-#     print("Welcome to the Gym")
-#     bring_food = "Weight protein"
-# else:
-#  print("you're not bob get out a here")     
-#  bring_food = "Salmon" 
 
-# print(f"you're eating {bring_food}")
-#elseif in javascript and elif is in python.
 
-# name = input("What is your name?")
-# name = name.lower()
-# if name != "bob":
-#     print("You're not bob, get out of here")
+name = input("what is your name?")
+if name == "Bob":
+ print("Welcome Bob!")
+ bring_food = "Pizza"
+elif name == "kalob":
+    print("Welcome to ur teacher portal")
+    bring_food = "Tacos"
+else:
+ print("you're not bob get out a here")     
+ bring_food = "Salmon" 
 
-# else: 
-#     print("Welcome Bobby boy")
+print(f"you're eating {bring_food}")
 
-# age = 18
+
+
+name = input("what is your name?")
+if name == "Bob":
+ print("Welcome Bob!")
+ bring_food = "Pizza"
+elif name == "kalob":
+    print("Welcome to ur teacher portal")
+    bring_food = "Tacos"
+elif name == "Nathan":
+    print("Welcome to the Gym")
+    bring_food = "Weight protein"
+else:
+ print("you're not bob get out a here")     
+ bring_food = "Salmon" 
+
+print(f"you're eating {bring_food}")
+
+
+name = input("What is your name?")
+name = name.lower()
+if name != "bob":
+    print("You're not bob, get out of here")
+
+else: 
+    print("Welcome Bobby boy")
+
+age = 18
+if age >= 18:
+    print("")
+
+
+something = None
+if something:
+    print("This is true")
+else:
+    print("This is false")
+
+
+
+something = "A string in here"
+if something:
+    print("This is true")
+else:
+    print("This is false")
+
+
+
+something = ""
+if something:
+    print("This is true")
+else:
+    print("This is false")
+
+
+something = False
+if something:
+    print("This is true")
+else:
+    print("This is false")
+
+
+age =17
+name = "kalob"
 # if age >= 18:
-#     print("")
-
-# note--None always returns false. empty string returns false.False returns false.
-# something = None
-# if something:
-#     print("This is true")
-# else:
-#     print("This is false")
-
-
-
-# something = "A string in here"
-# if something:
-#     print("This is true")
-# else:
-#     print("This is false")
-
-
-
-# something = ""
-# if something:
-#     print("This is true")
-# else:
-#     print("This is false")
-
-
-# something = False
-# if something:
-#     print("This is true")
-# else:
-#     print("This is false")
-
-
-# age =17
-# name = "kalob"
-# # if age >= 18:
-# #     if name == "kalob":
-# #     print("I can drink alcohol")
-# if age >= 18 and  name == "kalob":
+#     if name == "kalob":
 #     print("I can drink alcohol")
-# else:
-#     print("DONT DO ANYTHING")
+if age >= 18 and  name == "kalob":
+    print("I can drink alcohol")
+else:
+    print("DONT DO ANYTHING")
 
 
-# age =31
-# name = "jacab"
-# # if age >= 18:
-# #     if name == "kalob":
-# #     print("I can drink alcohol")
-# if age >= 18 or  name == "kalob":
+age =31
+name = "jacab"
+# if age >= 18:
+#     if name == "kalob":
 #     print("I can drink alcohol")
-# else:
-#     print("DONT DO ANYTHING")
+if age >= 18 or  name == "kalob":
+    print("I can drink alcohol")
+else:
+    print("DONT DO ANYTHING")
 
 x=10
 if x<5:
@@ -180,6 +180,3 @@ elif money>100:
 else:
     print("not gonna buy anything")
 
-    # =assignment
-    # ==check the values both sides are equal
-    # ===check the values and types both sides are equal
